@@ -10,6 +10,8 @@ b = int(input())
 # 3
 
 input_data = np.array([a, b])
+# How are the weights created?
+# The model training process sets them to optimize predictive accuracy.
 
 weights = {
     'node_0': np.array([1, 1]),
