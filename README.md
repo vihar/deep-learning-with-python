@@ -1,6 +1,6 @@
 # deep-learning-with-python
 
-Introduction to Deep Learnind and Neural Nets.
+Introduction to Deep Learning and Neural Nets.
 
 Comparing Neural Nets with Regresion models.
 
@@ -30,6 +30,8 @@ Gradient descent.
 
 6. Predict
 
+------------------------------------------------------
+© Vihar Kurama & V Sai Tejaswi
 
 
 
