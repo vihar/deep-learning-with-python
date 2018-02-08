@@ -30,9 +30,6 @@ Gradient descent.
 
 6. Predict
 
-------------------------------------------------------
-© Vihar Kurama & V Sai Tejaswi
-
 
 
 

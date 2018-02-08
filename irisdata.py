@@ -7,7 +7,7 @@ from keras.utils import np_utils
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import LabelEncoder
-from sklearn.pipeline import Pipeline
+
 # fix random seed for reproducibility
 seed = 7
 numpy.random.seed(seed)
@@ -28,6 +28,7 @@ dummy_y = np_utils.to_categorical(encoded_Y)
 def baseline_model():
     # create model
     model = Sequential()
+    
     model.add(Dense(4, input_dim=4, init='normal', activation='relu'))
     model.add(Dense(3, init='normal', activation='sigmoid'))
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
