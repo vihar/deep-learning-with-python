@@ -1,5 +1,11 @@
 # deep-learning-with-python
 
+Code for the article :
+
+Deep Learning with Python published on Medium.
+ 
+[Click here for the article](https://towardsdatascience.com/supervised-learning-with-python-cf2c1ae543c1)
+
 Introduction to Deep Learning and Neural Nets.
 
 Comparing Neural Nets with Regresion models.
